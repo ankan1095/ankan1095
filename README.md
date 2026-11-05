@@ -67,15 +67,15 @@ A Flutter-based personal finance application with Firebase integration.
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankan1095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankan1095&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1095&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
-<img src="https://streak-stats.demolab.com?user=ankan1095&theme=tokyonight&hide_border=true" width="70%" />
-
 </div>
+
 
 ---
 
